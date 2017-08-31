@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Host: http://www.rubyonrailspraha.cz/
+Sitemap: http://www.rubyonrailspraha.cz/sitemap.xml
